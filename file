@@ -1,0 +1,32 @@
+ <!--
+ <section class="container-add">
+    <div class="slider-wrapper">
+      <div class="slider">
+        <img id="slide-1" src="./images/samsung_add.png" alt="samsung add">
+        <img id="slide-2" src="./images/apple-products-2022.jpg" alt="apple add">
+        <img id="slide-3" src="./images/xiaomi-pad.png" alt="xiaomi add">
+      </div>
+    </div>
+ </section> 
+ <script src="./JS/script.js"></script>-->
+
+ /*
+  .container-add {
+    text-align: center;
+}
+
+.slider-wrapper {
+    width: 100%;
+    overflow: hidden;
+}
+
+.slider {
+    display: flex;
+    transition: transform 0.5s;
+}
+
+.slider img {
+    width: 100%;
+    height: auto;
+}
+  */
